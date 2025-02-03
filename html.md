@@ -4,7 +4,8 @@
 <body>
     <h2>I'm Markell Spann!(18y/o)</h2>
 
-    ![Markell Spann](Example.png)
+    ![Markell Spann](https://discord.com/channels/@me/1336016320801673237/1336016351029886996)
+
      Hello and welcome to my website! it's not much, but let me tell you a bit about myself!
      
      <p>  

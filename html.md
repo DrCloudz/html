@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>I'm Markell Spann!</title>
+</head>
+<body>
+    <h2>I'm Markell Spann!</h2>
+     Hello and welcome to my website! it's not much, but let me tell you a bit about myself!
+     
+     - I'm the only son out of 4 siblings.
+     - I like to workout, draw and write!
+     - 
+</body>
+</html>

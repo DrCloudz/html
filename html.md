@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-    <title>I'm Markell Spann!</title>
 </head>
 <body>
     <h2>I'm Markell Spann!</h2>

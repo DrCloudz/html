@@ -6,8 +6,8 @@
 
     ![Markell Spann](Example.png)
      Hello and welcome to my website! it's not much, but let me tell you a bit about myself!
-     <p>
-         
+     
+     <p>  
     - I'm the only son out of 4 siblings.
          
      - I like to workout, draw and write!

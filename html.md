@@ -7,11 +7,11 @@
 
      Hello and welcome to my website! it's not much, but let me tell you a bit about myself!
      
-     <p>  
-    - I'm the only son out of 4 siblings.
+      
+   <p> - I'm the only son out of 4 siblings.</p>
          
-     - I like to workout, draw and write!
+   <p> - I like to workout, draw and write!</p>
      
-     - I'm here to improve myself and gain a greater understanding of code and prgram. </p>
+ <p> - I'm here to improve myself and gain a greater understanding of code and prgram.</p>
 </body>
 </html>
